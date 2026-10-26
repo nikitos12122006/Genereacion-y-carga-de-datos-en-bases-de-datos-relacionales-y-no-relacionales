@@ -1,0 +1,4280 @@
+{
+  "Audi": {
+    "80": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1972,
+          "fin": 1996
+        }
+      ]
+    },
+    "90": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 1995
+        }
+      ]
+    },
+    "A1": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 9999
+        }
+      ]
+    },
+    "A2": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2005
+        }
+      ]
+    },
+    "A3": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 9999
+        }
+      ]
+    },
+    "A4": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 9999
+        }
+      ]
+    },
+    "A5": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 9999
+        }
+      ]
+    },
+    "A5 Cabrio": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 9999
+        }
+      ]
+    },
+    "A6": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 9999
+        }
+      ]
+    },
+    "A7": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 9999
+        }
+      ]
+    },
+    "A8": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 9999
+        }
+      ]
+    },
+    "Allroad": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 9999
+        }
+      ]
+    },
+    "Cabriolet": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 2000
+        }
+      ]
+    },
+    "Q2": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2016,
+          "fin": 9999
+        }
+      ]
+    },
+    "Q3": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2011,
+          "fin": 9999
+        }
+      ]
+    },
+    "Q5": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "Q7": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 9999
+        }
+      ]
+    },
+    "Q8": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2018,
+          "fin": 9999
+        }
+      ]
+    },
+    "R8": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2024
+        }
+      ]
+    },
+    "TT": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2023
+        }
+      ]
+    }
+  },
+  "BMW": {
+    "i3": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 2022
+        }
+      ]
+    },
+    "M3": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1986,
+          "fin": 9999
+        }
+      ]
+    },
+    "M5": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 9999
+        }
+      ]
+    },
+    "Serie 1": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 9999
+        }
+      ]
+    },
+    "Serie 2": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2014,
+          "fin": 9999
+        }
+      ]
+    },
+    "Serie 3": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1975,
+          "fin": 9999
+        }
+      ]
+    },
+    "Serie 4": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 9999
+        }
+      ]
+    },
+    "Serie 5": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1972,
+          "fin": 9999
+        }
+      ]
+    },
+    "Serie 6": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1976,
+          "fin": 2018
+        }
+      ]
+    },
+    "Serie 7": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1977,
+          "fin": 9999
+        }
+      ]
+    },
+    "Serie 8": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1990,
+          "fin": 1999
+        },
+        {
+          "inicio": 2018,
+          "fin": 2025
+        }
+      ]
+    },
+    "X1": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 9999
+        }
+      ]
+    },
+    "X3": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 9999
+        }
+      ]
+    },
+    "X5": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 9999
+        }
+      ]
+    },
+    "X6": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "X7": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2018,
+          "fin": 9999
+        }
+      ]
+    },
+    "Z1": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1989,
+          "fin": 1991
+        }
+      ]
+    },
+    "Z3": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2002
+        }
+      ]
+    },
+    "Z4": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "BYD": {
+    "Atto 2": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2025,
+          "fin": 9999
+        }
+      ]
+    },
+    "Atto 3": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2022,
+          "fin": 9999
+        }
+      ]
+    },
+    "Denza D9": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2022,
+          "fin": 9999
+        }
+      ]
+    },
+    "Dolphin": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2021,
+          "fin": 9999
+        }
+      ]
+    },
+    "F3": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2021
+        }
+      ]
+    },
+    "G6": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2011,
+          "fin": 2019
+        }
+      ]
+    },
+    "Han": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    },
+    "M6": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 9999
+        }
+      ]
+    },
+    "Qin": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 9999
+        }
+      ]
+    },
+    "Qin Plus": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    },
+    "Seagull": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2023,
+          "fin": 9999
+        }
+      ]
+    },
+    "Seal": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2022,
+          "fin": 9999
+        }
+      ]
+    },
+    "Sealion 7": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2024,
+          "fin": 9999
+        }
+      ]
+    },
+    "Shark": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2024,
+          "fin": 9999
+        }
+      ]
+    },
+    "Song": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 9999
+        }
+      ]
+    },
+    "Song Plus": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    },
+    "Tang": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 9999
+        }
+      ]
+    },
+    "Yuan Plus": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2022,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Citroen": {
+    "AX": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1986,
+          "fin": 1998
+        }
+      ]
+    },
+    "Berlingo": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 9999
+        }
+      ]
+    },
+    "BX": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1982,
+          "fin": 1994
+        }
+      ]
+    },
+    "C-Crosser": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 2012
+        }
+      ]
+    },
+    "C1": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2022
+        }
+      ]
+    },
+    "C2": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 2009
+        }
+      ]
+    },
+    "C3": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 9999
+        }
+      ]
+    },
+    "C3 Aircross": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "C4": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 9999
+        }
+      ]
+    },
+    "C4 Cactus": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2014,
+          "fin": 2020
+        }
+      ]
+    },
+    "C4 Picasso": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2018
+        }
+      ]
+    },
+    "C5": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2001,
+          "fin": 9999
+        }
+      ]
+    },
+    "C5 Aircross": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "C6": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2012
+        }
+      ]
+    },
+    "DS3 Cabrio": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 2019
+        }
+      ]
+    },
+    "Grand C4 Picasso": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2018
+        }
+      ]
+    },
+    "Mehari": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1968,
+          "fin": 1988
+        }
+      ]
+    },
+    "Saxo": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 2004
+        }
+      ]
+    },
+    "SM": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1970,
+          "fin": 1975
+        }
+      ]
+    },
+    "Visa": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1978,
+          "fin": 1988
+        }
+      ]
+    },
+    "Xantia": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 2002
+        }
+      ]
+    },
+    "XM": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1989,
+          "fin": 2000
+        }
+      ]
+    },
+    "Xsara": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2006
+        }
+      ]
+    },
+    "Xsara Picasso": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2012
+        }
+      ]
+    },
+    "ZX": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 1998
+        }
+      ]
+    }
+  },
+  "Fiat": {
+    "500": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 9999
+        }
+      ]
+    },
+    "600": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2010
+        }
+      ]
+    },
+    "124 Spider": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2016,
+          "fin": 2020
+        }
+      ]
+    },
+    "500X": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2014,
+          "fin": 9999
+        }
+      ]
+    },
+    "Barchetta": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2005
+        }
+      ]
+    },
+    "Brava": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2003
+        }
+      ]
+    },
+    "Bravo": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2014
+        }
+      ]
+    },
+    "Coupe": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 2000
+        }
+      ]
+    },
+    "Croma": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1985,
+          "fin": 2010
+        }
+      ]
+    },
+    "Doblo": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 9999
+        }
+      ]
+    },
+    "Freemont": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2011,
+          "fin": 2016
+        }
+      ]
+    },
+    "Grande Punto": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2018
+        }
+      ]
+    },
+    "Panda": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1980,
+          "fin": 9999
+        }
+      ]
+    },
+    "Punto": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 2018
+        }
+      ]
+    },
+    "Sedici": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2014
+        }
+      ]
+    },
+    "Tipo": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1988,
+          "fin": 1995
+        },
+        {
+          "inicio": 2015,
+          "fin": 9999
+        }
+      ]
+    },
+    "Ulysse": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 2022
+        }
+      ]
+    }
+  },
+  "Ford": {
+    "Bronco": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1966,
+          "fin": 9999
+        }
+      ]
+    },
+    "C-Max": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 2019
+        }
+      ]
+    },
+    "Capri": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1968,
+          "fin": 1986
+        }
+      ]
+    },
+    "Cortina": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1962,
+          "fin": 1982
+        }
+      ]
+    },
+    "Cougar": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2002
+        }
+      ]
+    },
+    "EcoSport": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 2023
+        }
+      ]
+    },
+    "Edge": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 9999
+        }
+      ]
+    },
+    "Escort": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1968,
+          "fin": 2004
+        }
+      ]
+    },
+    "Expedition": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 9999
+        }
+      ]
+    },
+    "Explorer": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1990,
+          "fin": 9999
+        }
+      ]
+    },
+    "Fiesta": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1976,
+          "fin": 2023
+        }
+      ]
+    },
+    "Focus": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 9999
+        }
+      ]
+    },
+    "Fusion": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 2012
+        }
+      ]
+    },
+    "Galaxy": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2023
+        }
+      ]
+    },
+    "Granada": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1972,
+          "fin": 1994
+        }
+      ]
+    },
+    "GT": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 9999
+        }
+      ]
+    },
+    "Ka": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 2020
+        }
+      ]
+    },
+    "Kuga": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mondeo": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 2022
+        }
+      ]
+    },
+    "Mustang": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1964,
+          "fin": 9999
+        }
+      ]
+    },
+    "Orion": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1983,
+          "fin": 1993
+        }
+      ]
+    },
+    "Probe": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1988,
+          "fin": 1997
+        }
+      ]
+    },
+    "Puma": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2019,
+          "fin": 9999
+        }
+      ]
+    },
+    "Ranger": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1983,
+          "fin": 9999
+        }
+      ]
+    },
+    "S-Max": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2023
+        }
+      ]
+    },
+    "Scorpio": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1985,
+          "fin": 1998
+        }
+      ]
+    },
+    "Sierra": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1982,
+          "fin": 1993
+        }
+      ]
+    },
+    "StreetKa": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 2005
+        }
+      ]
+    }
+  },
+  "Honda": {
+    "Accord": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1976,
+          "fin": 9999
+        }
+      ]
+    },
+    "City": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1981,
+          "fin": 9999
+        }
+      ]
+    },
+    "Civic": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1972,
+          "fin": 9999
+        }
+      ]
+    },
+    "Concerto": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1988,
+          "fin": 1995
+        }
+      ]
+    },
+    "CR-V": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 9999
+        }
+      ]
+    },
+    "CR-X": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1983,
+          "fin": 1997
+        }
+      ]
+    },
+    "Crosstour": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 2015
+        }
+      ]
+    },
+    "e": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 2024
+        }
+      ]
+    },
+    "FR-V": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 2009
+        }
+      ]
+    },
+    "HR-V": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 9999
+        }
+      ]
+    },
+    "Insight": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2022
+        }
+      ]
+    },
+    "Integra": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1985,
+          "fin": 2006
+        }
+      ]
+    },
+    "Jazz": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2001,
+          "fin": 9999
+        }
+      ]
+    },
+    "Legend": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1985,
+          "fin": 2012
+        }
+      ]
+    },
+    "NSX": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1990,
+          "fin": 2005
+        },
+        {
+          "inicio": 2016,
+          "fin": 2022
+        }
+      ]
+    },
+    "Odyssey": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 9999
+        }
+      ]
+    },
+    "Pilot": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 9999
+        }
+      ]
+    },
+    "Prelude": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1978,
+          "fin": 2001
+        }
+      ]
+    },
+    "Ridgeline": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 9999
+        }
+      ]
+    },
+    "S2000": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2009
+        }
+      ]
+    },
+    "Shuttle": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 2022
+        }
+      ]
+    },
+    "Stream": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 2014
+        }
+      ]
+    },
+    "ZR-V": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2023,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Hyundai": {
+    "Accent": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 2022
+        }
+      ]
+    },
+    "Atos": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2014
+        }
+      ]
+    },
+    "Bayon": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2021,
+          "fin": 9999
+        }
+      ]
+    },
+    "Coupe": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 2009
+        }
+      ]
+    },
+    "Elantra": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1990,
+          "fin": 9999
+        }
+      ]
+    },
+    "Galloper": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 2003
+        }
+      ]
+    },
+    "Genesis Coupe": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 2016
+        }
+      ]
+    },
+    "Getz": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 2011
+        }
+      ]
+    },
+    "i10": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 9999
+        }
+      ]
+    },
+    "i20": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "i30": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 9999
+        }
+      ]
+    },
+    "Kona": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "Matrix": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2001,
+          "fin": 2010
+        }
+      ]
+    },
+    "Santa Fe": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 9999
+        }
+      ]
+    },
+    "Sonata": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1985,
+          "fin": 9999
+        }
+      ]
+    },
+    "Terracan": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2001,
+          "fin": 2007
+        }
+      ]
+    },
+    "Trajet": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2008
+        }
+      ]
+    },
+    "Tucson": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 9999
+        }
+      ]
+    },
+    "Veloster": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2011,
+          "fin": 2022
+        }
+      ]
+    },
+    "XG": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2005
+        }
+      ]
+    }
+  },
+  "Jaecoo": {
+    "J5": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2025,
+          "fin": 9999
+        }
+      ]
+    },
+    "J7": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2023,
+          "fin": 9999
+        }
+      ]
+    },
+    "J7 SHS": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2024,
+          "fin": 9999
+        }
+      ]
+    },
+    "J8": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2024,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Jeep": {
+    "Avenger": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2023,
+          "fin": 9999
+        }
+      ]
+    },
+    "Cherokee": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1974,
+          "fin": 2023
+        }
+      ]
+    },
+    "CJ-5": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1954,
+          "fin": 1983
+        }
+      ]
+    },
+    "CJ-7": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1976,
+          "fin": 1986
+        }
+      ]
+    },
+    "Comanche": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1985,
+          "fin": 1992
+        }
+      ]
+    },
+    "Commander": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2010
+        }
+      ]
+    },
+    "Compass": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 9999
+        }
+      ]
+    },
+    "Forward Control": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1956,
+          "fin": 1965
+        }
+      ]
+    },
+    "Gladiator": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1962,
+          "fin": 1988
+        },
+        {
+          "inicio": 2019,
+          "fin": 9999
+        }
+      ]
+    },
+    "Grand Cherokee": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 9999
+        }
+      ]
+    },
+    "Grand Wagoneer": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 1993
+        }
+      ]
+    },
+    "Liberty": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 2012
+        }
+      ]
+    },
+    "Patriot": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2017
+        }
+      ]
+    },
+    "Renegade": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2014,
+          "fin": 9999
+        }
+      ]
+    },
+    "Scrambler": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1981,
+          "fin": 1986
+        }
+      ]
+    },
+    "Wagoneer": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1963,
+          "fin": 1993
+        }
+      ]
+    },
+    "Wrangler": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1986,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Kia": {
+    "Carens": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2021
+        }
+      ]
+    },
+    "Carnival": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 9999
+        }
+      ]
+    },
+    "Ceed": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 9999
+        }
+      ]
+    },
+    "EV6": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2021,
+          "fin": 9999
+        }
+      ]
+    },
+    "K5": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mohave": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "Niro": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2016,
+          "fin": 9999
+        }
+      ]
+    },
+    "Optima": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 2022
+        }
+      ]
+    },
+    "Picanto": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 9999
+        }
+      ]
+    },
+    "Pride": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1987,
+          "fin": 2017
+        }
+      ]
+    },
+    "Proceed": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "Rio": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 9999
+        }
+      ]
+    },
+    "Seltos": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2019,
+          "fin": 9999
+        }
+      ]
+    },
+    "Sephia": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 2003
+        }
+      ]
+    },
+    "Shuma": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2004
+        }
+      ]
+    },
+    "Sorento": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 9999
+        }
+      ]
+    },
+    "Soul": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "Sportage": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 9999
+        }
+      ]
+    },
+    "Stinger": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 2023
+        }
+      ]
+    },
+    "XCeed": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2019,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Mazda": {
+    "2": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 9999
+        }
+      ]
+    },
+    "3": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 9999
+        }
+      ]
+    },
+    "5": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2018
+        }
+      ]
+    },
+    "6": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 9999
+        }
+      ]
+    },
+    "121": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1987,
+          "fin": 2003
+        }
+      ]
+    },
+    "323": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1963,
+          "fin": 2003
+        }
+      ]
+    },
+    "626": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1978,
+          "fin": 2002
+        }
+      ]
+    },
+    "CX-3": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 2022
+        }
+      ]
+    },
+    "CX-30": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2019,
+          "fin": 9999
+        }
+      ]
+    },
+    "CX-5": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 9999
+        }
+      ]
+    },
+    "CX-7": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2012
+        }
+      ]
+    },
+    "MX-3": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 1998
+        }
+      ]
+    },
+    "MX-5": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1989,
+          "fin": 9999
+        }
+      ]
+    },
+    "MX-6": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1987,
+          "fin": 1997
+        }
+      ]
+    },
+    "Premacy": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2005
+        }
+      ]
+    },
+    "RX-7": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1978,
+          "fin": 2002
+        }
+      ]
+    },
+    "RX-8": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 2012
+        }
+      ]
+    },
+    "Tribute": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 2011
+        }
+      ]
+    },
+    "Xedos 6": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 1999
+        }
+      ]
+    },
+    "Xedos 9": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 2002
+        }
+      ]
+    }
+  },
+  "Mercedes-Benz": {
+    "190": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1982,
+          "fin": 1993
+        }
+      ]
+    },
+    "AMG GT": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2014,
+          "fin": 9999
+        }
+      ]
+    },
+    "CLA": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 9999
+        }
+      ]
+    },
+    "Clase A": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 9999
+        }
+      ]
+    },
+    "Clase B": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 9999
+        }
+      ]
+    },
+    "Clase C": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 9999
+        }
+      ]
+    },
+    "Clase E": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 9999
+        }
+      ]
+    },
+    "Clase G": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1979,
+          "fin": 9999
+        }
+      ]
+    },
+    "Clase S": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1972,
+          "fin": 9999
+        }
+      ]
+    },
+    "CLK": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2010
+        }
+      ]
+    },
+    "CLS": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 9999
+        }
+      ]
+    },
+    "GLA": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 9999
+        }
+      ]
+    },
+    "GLB": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2019,
+          "fin": 9999
+        }
+      ]
+    },
+    "GLC": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 9999
+        }
+      ]
+    },
+    "GLE": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 9999
+        }
+      ]
+    },
+    "SL": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1954,
+          "fin": 9999
+        }
+      ]
+    },
+    "SLC": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2016,
+          "fin": 2020
+        }
+      ]
+    },
+    "SLK": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 2020
+        }
+      ]
+    },
+    "V-Class": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 9999
+        }
+      ]
+    },
+    "Vaneo": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 2005
+        }
+      ]
+    }
+  },
+  "Mini": {
+    "Mini Aceman": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2024,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mini Cabrio": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mini Clubman": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 2024
+        }
+      ]
+    },
+    "Mini Clubman JCW": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2016,
+          "fin": 2024
+        }
+      ]
+    },
+    "Mini Cooper": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1961,
+          "fin": 2000
+        }
+      ]
+    },
+    "Mini Cooper S": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1963,
+          "fin": 2000
+        }
+      ]
+    },
+    "Mini Countryman": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mini Countryman JCW": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mini Coupe": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2011,
+          "fin": 2015
+        }
+      ]
+    },
+    "Mini Electric": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2019,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mini Hatch": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2001,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mini John Cooper Works": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "Mini Moke": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1964,
+          "fin": 1993
+        }
+      ]
+    },
+    "Mini Paceman": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 2016
+        }
+      ]
+    },
+    "Mini Pickup": {
+      "category": "Furgoneta",
+      "production": [
+        {
+          "inicio": 1961,
+          "fin": 1983
+        }
+      ]
+    },
+    "Mini Roadster": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 2015
+        }
+      ]
+    },
+    "Mini Traveller": {
+      "category": "Furgoneta",
+      "production": [
+        {
+          "inicio": 1960,
+          "fin": 1969
+        }
+      ]
+    },
+    "Mini Van": {
+      "category": "Furgoneta",
+      "production": [
+        {
+          "inicio": 1960,
+          "fin": 1983
+        }
+      ]
+    }
+  },
+  "Nissan": {
+    "200SX": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1975,
+          "fin": 2002
+        }
+      ]
+    },
+    "350Z": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 2009
+        }
+      ]
+    },
+    "370Z": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 2022
+        }
+      ]
+    },
+    "Almera": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2006
+        }
+      ]
+    },
+    "Bluebird": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1957,
+          "fin": 2001
+        }
+      ]
+    },
+    "GT-R": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 2025
+        }
+      ]
+    },
+    "Juke": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 9999
+        }
+      ]
+    },
+    "Maxima": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1981,
+          "fin": 2023
+        }
+      ]
+    },
+    "Micra": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1982,
+          "fin": 9999
+        }
+      ]
+    },
+    "Murano": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 2024
+        }
+      ]
+    },
+    "Note": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 2020
+        }
+      ]
+    },
+    "Pathfinder": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1985,
+          "fin": 9999
+        }
+      ]
+    },
+    "Patrol": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1951,
+          "fin": 9999
+        }
+      ]
+    },
+    "Pixo": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 2013
+        }
+      ]
+    },
+    "Primera": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1990,
+          "fin": 2007
+        }
+      ]
+    },
+    "Pulsar": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1978,
+          "fin": 2018
+        }
+      ]
+    },
+    "Qashqai": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 9999
+        }
+      ]
+    },
+    "Quest": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 2017
+        }
+      ]
+    },
+    "Silvia": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1965,
+          "fin": 2002
+        }
+      ]
+    },
+    "X-Trail": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Opel": {
+    "Adam": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 2019
+        }
+      ]
+    },
+    "Agila": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 2014
+        }
+      ]
+    },
+    "Antara": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2017
+        }
+      ]
+    },
+    "Astra": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 9999
+        }
+      ]
+    },
+    "Calibra": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1989,
+          "fin": 1997
+        }
+      ]
+    },
+    "Cascada": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 2019
+        }
+      ]
+    },
+    "Combo": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 9999
+        }
+      ]
+    },
+    "Corsa": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1982,
+          "fin": 9999
+        }
+      ]
+    },
+    "Crossland": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 2024
+        }
+      ]
+    },
+    "Crossland X": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 2020
+        }
+      ]
+    },
+    "Frontera": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 2004
+        }
+      ]
+    },
+    "Grandland": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "GT": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 2009
+        }
+      ]
+    },
+    "Insignia": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 2022
+        }
+      ]
+    },
+    "Kadett": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1936,
+          "fin": 1993
+        }
+      ]
+    },
+    "Karl": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 2019
+        }
+      ]
+    },
+    "Meriva": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 2017
+        }
+      ]
+    },
+    "Mokka": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 9999
+        }
+      ]
+    },
+    "Monterey": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 1999
+        }
+      ]
+    },
+    "Omega": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1986,
+          "fin": 2003
+        }
+      ]
+    },
+    "Signum": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 2008
+        }
+      ]
+    },
+    "Speedster": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 2005
+        }
+      ]
+    },
+    "Tigra": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 2009
+        }
+      ]
+    },
+    "Vectra": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1988,
+          "fin": 2008
+        }
+      ]
+    },
+    "Zafira": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2019
+        }
+      ]
+    }
+  },
+  "Peugeot": {
+    "104": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1972,
+          "fin": 1988
+        }
+      ]
+    },
+    "106": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 2003
+        }
+      ]
+    },
+    "107": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2014
+        }
+      ]
+    },
+    "108": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2014,
+          "fin": 2021
+        }
+      ]
+    },
+    "205": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1983,
+          "fin": 1998
+        }
+      ]
+    },
+    "206": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2012
+        }
+      ]
+    },
+    "207": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2014
+        }
+      ]
+    },
+    "208": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 9999
+        }
+      ]
+    },
+    "306": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 2002
+        }
+      ]
+    },
+    "307": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2001,
+          "fin": 2011
+        }
+      ]
+    },
+    "308": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 9999
+        }
+      ]
+    },
+    "405": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1987,
+          "fin": 1997
+        }
+      ]
+    },
+    "406": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2004
+        }
+      ]
+    },
+    "407": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 2011
+        }
+      ]
+    },
+    "508": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 9999
+        }
+      ]
+    },
+    "605": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1989,
+          "fin": 1999
+        }
+      ]
+    },
+    "607": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 2010
+        }
+      ]
+    },
+    "806": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 2002
+        }
+      ]
+    },
+    "807": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 2014
+        }
+      ]
+    },
+    "2008": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 9999
+        }
+      ]
+    },
+    "3008": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "4007": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 2012
+        }
+      ]
+    },
+    "4008": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 2017
+        }
+      ]
+    },
+    "5008": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 9999
+        }
+      ]
+    },
+    "406 Coupe": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2004
+        }
+      ]
+    },
+    "505 Turbo": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1983,
+          "fin": 1990
+        }
+      ]
+    },
+    "RCZ": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 2015
+        }
+      ]
+    },
+    "Rifter": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2018,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Renault": {
+    "Alpine A110": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "Alpine A310": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1971,
+          "fin": 1985
+        }
+      ]
+    },
+    "Alpine A610": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 1995
+        }
+      ]
+    },
+    "Alpine GTA": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 1991
+        }
+      ]
+    },
+    "Arkana": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    },
+    "Austral": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2022,
+          "fin": 9999
+        }
+      ]
+    },
+    "Avantime": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2001,
+          "fin": 2003
+        }
+      ]
+    },
+    "Captur": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2013,
+          "fin": 9999
+        }
+      ]
+    },
+    "Clio": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1990,
+          "fin": 9999
+        }
+      ]
+    },
+    "Espace": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 9999
+        }
+      ]
+    },
+    "Fluence": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 2020
+        }
+      ]
+    },
+    "Fuego": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1980,
+          "fin": 1986
+        }
+      ]
+    },
+    "Grand Scenic": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 2023
+        }
+      ]
+    },
+    "Kadjar": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 2022
+        }
+      ]
+    },
+    "Kangoo": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 9999
+        }
+      ]
+    },
+    "Koleos": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "Laguna": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 2015
+        }
+      ]
+    },
+    "Megane": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 9999
+        }
+      ]
+    },
+    "Modus": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 2012
+        }
+      ]
+    },
+    "R19": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1988,
+          "fin": 1996
+        }
+      ]
+    },
+    "Rafale": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2024,
+          "fin": 9999
+        }
+      ]
+    },
+    "Safrane": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 2000
+        }
+      ]
+    },
+    "Scenic": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 2023
+        }
+      ]
+    },
+    "Spider": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 1999
+        }
+      ]
+    },
+    "Supercinco": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 1996
+        }
+      ]
+    },
+    "Talisman": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 2022
+        }
+      ]
+    },
+    "Twingo": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 2024
+        }
+      ]
+    },
+    "Vel Satis": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2001,
+          "fin": 2009
+        }
+      ]
+    },
+    "Wind": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 2013
+        }
+      ]
+    },
+    "Zoe": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 2024
+        }
+      ]
+    }
+  },
+  "Seat": {
+    "Alhambra": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 2022
+        }
+      ]
+    },
+    "Altea": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2004,
+          "fin": 2020
+        }
+      ]
+    },
+    "Altea XL": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2020
+        }
+      ]
+    },
+    "Arona": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "Arosa": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2004
+        }
+      ]
+    },
+    "Ateca": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2016,
+          "fin": 9999
+        }
+      ]
+    },
+    "Cordoba": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1993,
+          "fin": 2009
+        }
+      ]
+    },
+    "Exeo": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 2013
+        }
+      ]
+    },
+    "Fura": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1981,
+          "fin": 1986
+        }
+      ]
+    },
+    "Ibiza": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 9999
+        }
+      ]
+    },
+    "Inca": {
+      "category": "Furgoneta",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2003
+        }
+      ]
+    },
+    "Leon": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 9999
+        }
+      ]
+    },
+    "Leon Sportstourer": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    },
+    "Malaga": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1985,
+          "fin": 1992
+        }
+      ]
+    },
+    "Marbella": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1986,
+          "fin": 1998
+        }
+      ]
+    },
+    "Mii": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2011,
+          "fin": 2021
+        }
+      ]
+    },
+    "Ronda": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1982,
+          "fin": 1986
+        }
+      ]
+    },
+    "Tarraco": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2018,
+          "fin": 9999
+        }
+      ]
+    },
+    "Terra": {
+      "category": "Furgoneta",
+      "production": [
+        {
+          "inicio": 1987,
+          "fin": 1996
+        }
+      ]
+    },
+    "Toledo": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 2019
+        }
+      ]
+    }
+  },
+  "Tesla": {
+    "Cybertruck": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2023,
+          "fin": 9999
+        }
+      ]
+    },
+    "Model 3": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "Model S": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 9999
+        }
+      ]
+    },
+    "Model X": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2015,
+          "fin": 9999
+        }
+      ]
+    },
+    "Model Y": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Toyota": {
+    "4Runner": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 9999
+        }
+      ]
+    },
+    "Auris": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2018
+        }
+      ]
+    },
+    "Avensis": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2018
+        }
+      ]
+    },
+    "Aygo": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 9999
+        }
+      ]
+    },
+    "C-HR": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2016,
+          "fin": 9999
+        }
+      ]
+    },
+    "Camry": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1982,
+          "fin": 9999
+        }
+      ]
+    },
+    "Carina E": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 1998
+        }
+      ]
+    },
+    "Celica": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1970,
+          "fin": 2006
+        }
+      ]
+    },
+    "Corolla": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1966,
+          "fin": 9999
+        }
+      ]
+    },
+    "Corolla Cross": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    },
+    "GR86": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2021,
+          "fin": 9999
+        }
+      ]
+    },
+    "GT86": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 2012,
+          "fin": 2021
+        }
+      ]
+    },
+    "Highlander": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 9999
+        }
+      ]
+    },
+    "Hilux": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1968,
+          "fin": 9999
+        }
+      ]
+    },
+    "iQ": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 2015
+        }
+      ]
+    },
+    "Land Cruiser": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1951,
+          "fin": 9999
+        }
+      ]
+    },
+    "MR2": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1984,
+          "fin": 2007
+        }
+      ]
+    },
+    "Paseo": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 1999
+        }
+      ]
+    },
+    "Picnic": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 2009
+        }
+      ]
+    },
+    "Previa": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1990,
+          "fin": 2019
+        }
+      ]
+    },
+    "Prius": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 9999
+        }
+      ]
+    },
+    "RAV4": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 1994,
+          "fin": 9999
+        }
+      ]
+    },
+    "Starlet": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1973,
+          "fin": 1999
+        }
+      ]
+    },
+    "Supra": {
+      "category": "Deportivo",
+      "production": [
+        {
+          "inicio": 1978,
+          "fin": 9999
+        }
+      ]
+    },
+    "Verso": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2009,
+          "fin": 2018
+        }
+      ]
+    },
+    "Yaris": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1999,
+          "fin": 9999
+        }
+      ]
+    },
+    "Yaris Cross": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    }
+  },
+  "Volkswagen": {
+    "Amarok": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 9999
+        }
+      ]
+    },
+    "Arteon": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 2024
+        }
+      ]
+    },
+    "Beetle": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2019
+        }
+      ]
+    },
+    "Bora": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2005
+        }
+      ]
+    },
+    "Corrado": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1988,
+          "fin": 1995
+        }
+      ]
+    },
+    "Eos": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2015
+        }
+      ]
+    },
+    "Fox": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2005,
+          "fin": 2011
+        }
+      ]
+    },
+    "Golf": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1974,
+          "fin": 9999
+        }
+      ]
+    },
+    "ID.3": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    },
+    "ID.4": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2020,
+          "fin": 9999
+        }
+      ]
+    },
+    "Jetta": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1979,
+          "fin": 9999
+        }
+      ]
+    },
+    "Lupo": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2005
+        }
+      ]
+    },
+    "Passat": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1973,
+          "fin": 9999
+        }
+      ]
+    },
+    "Phaeton": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 2016
+        }
+      ]
+    },
+    "Polo": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 1975,
+          "fin": 9999
+        }
+      ]
+    },
+    "Scirocco": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1974,
+          "fin": 1992
+        },
+        {
+          "inicio": 2008,
+          "fin": 2017
+        }
+      ]
+    },
+    "Sharan": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2022
+        }
+      ]
+    },
+    "T-Roc": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "Taigo": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2021,
+          "fin": 9999
+        }
+      ]
+    },
+    "Tiguan": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2007,
+          "fin": 9999
+        }
+      ]
+    },
+    "Touareg": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 9999
+        }
+      ]
+    },
+    "Touran": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2003,
+          "fin": 9999
+        }
+      ]
+    },
+    "up!": {
+      "category": "Urbano",
+      "production": [
+        {
+          "inicio": 2011,
+          "fin": 2023
+        }
+      ]
+    },
+    "Vento": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1992,
+          "fin": 1998
+        }
+      ]
+    }
+  },
+  "Volvo": {
+    "440": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1988,
+          "fin": 1996
+        }
+      ]
+    },
+    "460": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1989,
+          "fin": 1996
+        }
+      ]
+    },
+    "480": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1986,
+          "fin": 1995
+        }
+      ]
+    },
+    "850": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1991,
+          "fin": 1997
+        }
+      ]
+    },
+    "940": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1990,
+          "fin": 1998
+        }
+      ]
+    },
+    "C30": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 2006,
+          "fin": 2013
+        }
+      ]
+    },
+    "C70": {
+      "category": "Descapotable",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2013
+        }
+      ]
+    },
+    "EM90": {
+      "category": "Monovolumen",
+      "production": [
+        {
+          "inicio": 2023,
+          "fin": 9999
+        }
+      ]
+    },
+    "P1800": {
+      "category": "Coupe",
+      "production": [
+        {
+          "inicio": 1961,
+          "fin": 1973
+        }
+      ]
+    },
+    "S40": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2012
+        }
+      ]
+    },
+    "S60": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 2000,
+          "fin": 9999
+        }
+      ]
+    },
+    "S80": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1998,
+          "fin": 2016
+        }
+      ]
+    },
+    "S90": {
+      "category": "Sedan",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 9999
+        }
+      ]
+    },
+    "V40": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1995,
+          "fin": 2019
+        }
+      ]
+    },
+    "V60": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 2010,
+          "fin": 9999
+        }
+      ]
+    },
+    "V70": {
+      "category": "Berlina",
+      "production": [
+        {
+          "inicio": 1996,
+          "fin": 2016
+        }
+      ]
+    },
+    "XC40": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2017,
+          "fin": 9999
+        }
+      ]
+    },
+    "XC60": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2008,
+          "fin": 9999
+        }
+      ]
+    },
+    "XC70": {
+      "category": "Todoterreno",
+      "production": [
+        {
+          "inicio": 1997,
+          "fin": 2016
+        }
+      ]
+    },
+    "XC90": {
+      "category": "SUV",
+      "production": [
+        {
+          "inicio": 2002,
+          "fin": 9999
+        }
+      ]
+    }
+  }
+}
