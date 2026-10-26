@@ -1,0 +1,2 @@
+# Genereacion-y-carga-de-datos-en-bases-de-datos-relacionales-y-no-relacionales
+Desarrollo de un sistema en Python para generar datos sintéticos de usuarios y vehículos, manteniendo relaciones coherentes entre ellos. Implementamos la exportación a formatos CSV, JSON, Parquet y Avro, y su carga en bases de datos SQLite, PostgreSQL y MongoDB, permitiendo comparar distintas formas de almacenamiento y gestión de datos.
